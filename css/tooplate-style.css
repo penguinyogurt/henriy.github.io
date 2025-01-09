@@ -134,9 +134,9 @@ textarea {
     transition: all 0.3s ease;
 }
 
-.tm-social-link:hover i.fa-facebook { color: #3b5998; }
-.tm-social-link:hover i.fa-twitter { color: #00acee; }
-.tm-social-link:hover i.fa-instagram { color: #3f729b; }
+.tm-social-link:hover i.fa-linkedin { color: #3b5998; }
+.tm-social-link:hover i.fa-github { color: #00acee; }
+.tm-social-link:hover i.fa-google-plus-g { color: #3f729b; }
 .tm-flex { display: flex; }
 address { font-style: normal; }
 
